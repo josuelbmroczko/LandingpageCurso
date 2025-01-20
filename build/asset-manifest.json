@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd80f06c.css",
+    "main.js": "/static/js/main.75972fdc.js",
+    "static/media/adv2.jpg": "/static/media/adv2.ee4c13dc009c410fbd8c.jpg",
+    "static/media/bannerPrincipal.jpg": "/static/media/bannerPrincipal.cb18abc4d46f81a1d4a0.jpg",
+    "static/media/fotoAdvogado.jpg": "/static/media/fotoAdvogado.244c1edd4ace0bc9b5a1.jpg",
+    "static/media/adv1.jpg": "/static/media/adv1.2f77d9b951e405c5d6e8.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.0e2d795b87992328e30a58955fc620ef.svg",
+    "static/media/youtube.svg": "/static/media/youtube.ea1e2081b296f081fba6b81a8efd5e17.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.1818a072d7de57b0b9e9e02bae6f8875.svg",
+    "static/media/facebook.svg": "/static/media/facebook.26d327ca705d6f6b21c51f38b4076943.svg",
+    "index.html": "/index.html",
+    "main.cd80f06c.css.map": "/static/css/main.cd80f06c.css.map",
+    "main.75972fdc.js.map": "/static/js/main.75972fdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd80f06c.css",
+    "static/js/main.75972fdc.js"
+  ]
+}
